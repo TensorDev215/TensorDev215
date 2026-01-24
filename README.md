@@ -1,5 +1,3 @@
-<img
-src="https://camo.githubusercontent.com/2e36d1c48fae34094bb79174019bf10d3f39f5bb6949f38c680e662fcea8a65d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d303a4646303035432c35303a4236324246462c3130303a3134313332312673656374696f6e3d686561646572" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=1800pxamp;color=0:FF005C,50:B62BFF,100:14132&amp;section=header" style="max-width: 100%;">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
@@ -25,6 +23,22 @@ src="https://camo.githubusercontent.com/2e36d1c48fae34094bb79174019bf10d3f39f5bb
 I'm an **AI Engineer**, **Data Scientist** and **Fullstack Developer** with **10+ years of experience** designing and deploying **production-grade intelligent systems** at scale. I specialize in cutting-edge AI technologies that drive real business impact:
 
 ### 🎯 Core Specializations
+
+**🧩 Full-Stack Data Engineering**
+
+- Designing and developing full-stack data-driven applications using MongoDB, Express.js, React, and Node.js (MERN)
+
+- Building high-performance RESTful and GraphQL APIs with Python (FastAPI, Flask, Django)
+
+- Integrating ML models and LLM services into web applications
+
+- Developing secure authentication, role-based access control, and scalable backend services
+
+- Implementing real-time dashboards and data visualization for analytics and ML insights
+
+- Managing data pipelines, background workers, and message queues (Celery, Redis, Kafka)
+
+- Containerized deployment with Docker and CI/CD pipelines for production environments
 
 **🤖 Agentic AI & Autonomous Workflows**
 
@@ -88,6 +102,7 @@ I'm an **AI Engineer**, **Data Scientist** and **Fullstack Developer** with **10
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
@@ -154,20 +169,19 @@ I'm an **AI Engineer**, **Data Scientist** and **Fullstack Developer** with **10
 ---
 
 <hr/>
-<a href="https://github.com/tiny-eng">
-  <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api?username=tiny-eng&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&rank_icon=github&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="tiny roox GitHub Stats" />
+<a href="https://github.com/TensorDev215">
+  <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api?username=TensorDev215&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&rank_icon=github&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="tiny roox GitHub Stats" />
 </a>
-<a href="https://github.com/tiny-eng">
-  <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=tiny-eng&exclude_repo=Bootstrap-Offline&hide=css,html&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e&langs_count=20" alt="tiny roox GitHub Stats" />
+<a href="https://github.com/TensorDev215">
+  <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=TensorDev215&exclude_repo=Bootstrap-Offline&hide=css,html&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e&langs_count=20" alt="tiny roox GitHub Stats" />
 </a>
 <hr/>
 
-<p align="center"><img alt="thanks for your visit" src="https://camo.githubusercontent.com/6ebb89341c4e25dff552f99e8db5374fad4f1b57e49335e808c3543295370a07/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d506f7070696e732673697a653d33352670617573653d3130303026636f6c6f723d37453341434543452663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d5468616e6b732b666f722b796f75722b766973697421" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&amp;size=35&amp;pause=1000&amp;color=7E3ACECE&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Thanks+for+your+visit!" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" height="200" alt="Vector Tool" data-canonical-src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="width:75px; height: auto; max-height:80px; display: inline-block;" data-target="animated-image.originalImage">
-</p>
+
 <div dir="auto" align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg"><img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="70%" alt="Snake Game" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="210px" alt="Computer illustration" style="max-width: 100%;"></a>
 </div>
 
-<img src="https://camo.githubusercontent.com/f84ebda4e5f6b42aec583572e335c4eced3ce4537799639ada08b478d5dd0005/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d303a4646303035432c35303a4236324246462c3130303a3134313332312673656374696f6e3d666f6f74657226726576657273616c3d74727565" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=0:FF005C,50:B62BFF,100:141321&amp;section=footer&amp;reversal=true" style="max-width: 100%;">
+
 

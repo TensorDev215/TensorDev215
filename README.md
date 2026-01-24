@@ -24,21 +24,13 @@ I'm an **AI Engineer**, **Data Scientist** and **Fullstack Developer** with **10
 
 ### 🎯 Core Specializations
 
-**🧩 Full-Stack Data Engineering**
+**🧩 Full-Stack Web & Backend Systems**
 
-- Designing and developing full-stack data-driven applications using MongoDB, Express.js, React, and Node.js (MERN)
+- End-to-end full-stack development using MERN stack and Python backends (FastAPI, Flask, Django)
 
-- Building high-performance RESTful and GraphQL APIs with Python (FastAPI, Flask, Django)
+- Building scalable, high-performance RESTful and GraphQL APIs for frontend and third-party integrations
 
-- Integrating ML models and LLM services into web applications
-
-- Developing secure authentication, role-based access control, and scalable backend services
-
-- Implementing real-time dashboards and data visualization for analytics and ML insights
-
-- Managing data pipelines, background workers, and message queues (Celery, Redis, Kafka)
-
-- Containerized deployment with Docker and CI/CD pipelines for production environments
+- Integrating ML models and LLM-powered features into production web applications
 
 **🤖 Agentic AI & Autonomous Workflows**
 

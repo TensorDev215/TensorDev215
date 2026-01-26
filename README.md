@@ -1,20 +1,15 @@
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
 <h1 align="center">
 <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">  Hi :) I'm a Senior Software Engineer 🌈<br>
 </h1>
 
 
 <h3 align="center">💜 I really like AI 💜</h3>
-<p align="center"><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width:322px; display: inline-block;" data-target="animated-image.originalImage"></p>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5612AQHmbpYRanwhfQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735300309639?e=2147483647&v=beta&t=OFkHA6D6JoE5n5-TN487s5WIvc15d29IDfUcYdXnCk0" alt="Welcome" width="1000"/>
 </p>
-<p align="center" dir="auto">
- <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</article>
+
 
 
 

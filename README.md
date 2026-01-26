@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm an **AI Engineer**, **Data Scientist** and **Fullstack Developer** with **10+ years of experience** designing and deploying **production-grade intelligent systems** at scale. I specialize in cutting-edge AI technologies that drive real business impact:
+I’m an **AI Engineer**, **Data Scientist**, and **Full-Stack Developer** with **10+ years of experience** architecting and deploying **production-grade intelligent systems** at scale. I specialize in designing end-to-end, data-driven web platforms using the MERN stack and Python backends, building high-performance APIs, and integrating advanced AI/ML and LLM-based services to drive measurable business impact.
 
 ### 🎯 Core Specializations
 

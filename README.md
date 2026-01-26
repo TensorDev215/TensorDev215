@@ -20,7 +20,9 @@
 
 ## 🚀 About Me
 
-I’m an **AI Engineer**, **Data Scientist**, and **Full-Stack Developer** with **10+ years of experience** architecting and deploying **production-grade intelligent systems** at scale. I specialize in designing end-to-end, data-driven web platforms using the MERN stack and Python backends, building high-performance APIs, and integrating advanced AI/ML and LLM-based services to drive measurable business impact.
+👋 Hi, I’m an **AI Engineer**, **Data Scientist**, and **Full-Stack Developer** with 10+ years of experience building and deploying production-grade intelligent systems.
+
+I specialize in end-to-end, data-driven platforms using the **MERN stack (MongoDB, Express, React, Node.js)** and **Python backends (FastAPI, Flask, Django)**. My work focuses on designing **high-performance APIs**, **scalable system architectures**, and **AI-powered applications** by integrating advanced **machine learning, deep learning, and LLM-based services** into real-world products.
 
 ### 🎯 Core Specializations
 

@@ -37,16 +37,6 @@ I specialize in end-to-end, data-driven platforms using the **MERN stack (MongoD
 
 - Developing retrieval-augmented agentic workflows with external tool integration
 
-**💬 Large Language Models (LLMs) & NLP**
-
-- Fine-tuning GPT, LLaMA, and custom transformer models for domain-specific applications
-
-- Implementing RAG (Retrieval-Augmented Generation) architectures with hybrid retrieval strategies
-
-- Building Natural-Language-to-SQL agents and conversational AI systems
-
-- Advanced prompt engineering and model optimization techniques
-
 **🔍 Enterprise RAG & Knowledge Systems**
 
 - Creating enterprise-grade knowledge engines with hybrid retrieval (semantic + keyword)
@@ -55,15 +45,6 @@ I specialize in end-to-end, data-driven platforms using the **MERN stack (MongoD
 
 - Building production RAG systems for organizational knowledge management
 
-**📊 Production ML & MLOps**
-
-- End-to-end ML pipeline development from data ingestion to model deployment
-
-- Scalable recommendation systems for large-scale e-commerce platforms
-
-- Real-time inference systems with optimized performance and latency
-
----
 
 
 ## 🛠️ Tech Stack

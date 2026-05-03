@@ -3,16 +3,6 @@
 <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">  Hi :) I'm a Senior Software Engineer 🌈<br>
 </h1>
 
-
-<h3 align="center">💜 I really like AI 💜</h3>
-
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQHmbpYRanwhfQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735300309639?e=2147483647&v=beta&t=OFkHA6D6JoE5n5-TN487s5WIvc15d29IDfUcYdXnCk0" alt="Welcome" width="1000"/>
-</p>
-
-
-
-
 ## 🚀 About Me
 
 👋 Hi, I’m an **AI Engineer**, **Data Scientist**, and **Full-Stack Developer** with 7+ years of experience building and deploying production-grade intelligent systems.
